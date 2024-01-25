@@ -9,6 +9,7 @@ namespace COMP003A.LectureActivity2
 {
     internal class Program
     {
+
         static void Main(string[] args)
         {
             /* working with variables */
